@@ -1,0 +1,57 @@
+{
+	title: "矿石木",
+	x: 11.5d,
+	y: 6.0d,
+	dependencies: [
+		"550e0b65"
+	],
+	tasks: [{
+		uid: "3854e8f8",
+		type: "item",
+		items: [{
+			item: "twilightforest:mine_stairs"
+		}]
+	},
+	{
+		uid: "63756f35",
+		type: "item",
+		items: [{
+			item: "twilightforest:mine_slab"
+		}]
+	},
+	{
+		uid: "cd04c854",
+		type: "item",
+		items: [{
+			item: "twilightforest:mine_button"
+		}]
+	},
+	{
+		uid: "781d241b",
+		type: "item",
+		items: [{
+			item: "twilightforest:mine_fence"
+		}]
+	},
+	{
+		uid: "2a0f6dad",
+		type: "item",
+		items: [{
+			item: "twilightforest:mine_gate"
+		}]
+	},
+	{
+		uid: "a2e458d6",
+		type: "item",
+		items: [{
+			item: "twilightforest:mine_plate"
+		}]
+	},
+	{
+		uid: "df27247c",
+		type: "item",
+		items: [{
+			item: "twilightforest:magic_leaves 1 2"
+		}]
+	}]
+}

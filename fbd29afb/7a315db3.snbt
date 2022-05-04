@@ -1,0 +1,37 @@
+{
+	title: "谁知道它长了多少年?一百年?一千年!",
+	x: 2.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"29fd610e"
+	],
+	tasks: [{
+		uid: "6953fc32",
+		type: "item",
+		items: [{
+			item: "twilightforest:root 1 1"
+		}]
+	},
+	{
+		uid: "19836474",
+		type: "item",
+		items: [{
+			item: "twilightforest:liveroot"
+		}]
+	},
+	{
+		uid: "cf776e16",
+		type: "item",
+		items: [{
+			item: "twilightforest:root"
+		}]
+	},
+	{
+		uid: "cab08d65",
+		type: "item",
+		items: [{
+			item: "twilightforest:twilight_plant 1 8"
+		}]
+	}]
+}

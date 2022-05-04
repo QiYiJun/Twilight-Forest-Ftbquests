@@ -1,0 +1,24 @@
+{
+	title: "小小山包",
+	icon: "twilightforest:trophy 1 2",
+	x: 12.0d,
+	y: -0.5d,
+	shape: "diamond",
+	dependencies: [
+		"69fbae30"
+	],
+	tasks: [{
+		uid: "cee36249",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 2"
+		}]
+	},
+	{
+		uid: "df5db5a6",
+		type: "item",
+		items: [{
+			item: "twilightforest:fiery_blood"
+		}]
+	}]
+}

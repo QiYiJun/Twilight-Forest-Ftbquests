@@ -1,0 +1,23 @@
+{
+	title: "这棵树真的很大!!!!",
+	x: 4.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"7a315db3"
+	],
+	tasks: [{
+		uid: "e59f897e",
+		type: "item",
+		items: [{
+			item: "twilightforest:giant_log"
+		}]
+	},
+	{
+		uid: "f077fd2e",
+		type: "item",
+		items: [{
+			item: "twilightforest:giant_leaves"
+		}]
+	}]
+}

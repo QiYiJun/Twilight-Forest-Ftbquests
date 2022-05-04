@@ -1,0 +1,52 @@
+{
+	title: "再来一点,我还能吃",
+	x: 16.0d,
+	y: 1.5d,
+	dependencies: [
+		"467c8fcd"
+	],
+	tasks: [{
+		uid: "a0379c02",
+		type: "item",
+		items: [{
+			item: "twilightforest:experiment_115"
+		}]
+	},
+	{
+		uid: "dc04d1ca",
+		type: "item",
+		items: [{
+			item: "twilightforest:maze_wafer"
+		}]
+	},
+	{
+		uid: "412275df",
+		type: "item",
+		items: [{
+			item: "twilightforest:meef_stroganoff"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c8fba397",
+		type: "item",
+		items: [{
+			item: "twilightforest:cooked_meef"
+		}]
+	},
+	{
+		uid: "08a28c1f",
+		type: "item",
+		items: [{
+			item: "twilightforest:hydra_chop"
+		}]
+	},
+	{
+		uid: "9c12b53d",
+		type: "item",
+		items: [{
+			item: "twilightforest:cooked_venison"
+		}]
+	}]
+}

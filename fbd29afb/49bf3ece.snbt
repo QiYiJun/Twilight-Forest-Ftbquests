@@ -1,0 +1,17 @@
+{
+	title: "囚禁高塔",
+	icon: "twilightforest:trophy 1 3",
+	x: 16.0d,
+	y: -0.5d,
+	shape: "diamond",
+	dependencies: [
+		"68f896fc"
+	],
+	tasks: [{
+		uid: "e66baed5",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 3"
+		}]
+	}]
+}

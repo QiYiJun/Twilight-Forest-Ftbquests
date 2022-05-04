@@ -1,0 +1,22 @@
+{
+	x: 5.0d,
+	y: -1.5d,
+	dependencies: [
+		"c7e913d2"
+	],
+	tasks: [{
+		uid: "81c33cdf",
+		type: "item",
+		items: [{
+			id: "twilightforest:naga_leggings",
+			tag: {
+				ench: [{
+					lvl: 3s,
+					id: 0s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

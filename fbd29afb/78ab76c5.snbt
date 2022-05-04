@@ -1,0 +1,12 @@
+{
+	title: "优美而静谧--暮色森林",
+	x: 0.0d,
+	y: -0.5d,
+	shape: "gear",
+	tasks: [{
+		uid: "7f8bee8e",
+		type: "dimension",
+		title: "访问维度:暮色森林",
+		dim: 7
+	}]
+}

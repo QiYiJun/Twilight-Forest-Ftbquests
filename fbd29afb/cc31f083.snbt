@@ -1,0 +1,16 @@
+{
+	title: "与羽毛相比,是黑了些",
+	x: 2.0d,
+	y: -0.5d,
+	shape: "diamond",
+	dependencies: [
+		"78ab76c5"
+	],
+	tasks: [{
+		uid: "40835feb",
+		type: "item",
+		items: [{
+			item: "twilightforest:raven_feather"
+		}]
+	}]
+}

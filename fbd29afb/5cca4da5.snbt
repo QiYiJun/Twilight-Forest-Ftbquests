@@ -1,0 +1,23 @@
+{
+	title: "玫瑰虽美,却满身的刺",
+	x: 10.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"3d9149bb"
+	],
+	tasks: [{
+		uid: "307c0e61",
+		type: "item",
+		items: [{
+			item: "twilightforest:thorn_rose"
+		}]
+	},
+	{
+		uid: "8cc98222",
+		type: "item",
+		items: [{
+			item: "twilightforest:twilight_leaves_3"
+		}]
+	}]
+}

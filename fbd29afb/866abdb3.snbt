@@ -1,0 +1,57 @@
+{
+	title: "分类木",
+	x: 12.5d,
+	y: 6.0d,
+	dependencies: [
+		"550e0b65"
+	],
+	tasks: [{
+		uid: "6d13adbd",
+		type: "item",
+		items: [{
+			item: "twilightforest:sort_stairs"
+		}]
+	},
+	{
+		uid: "9dafde27",
+		type: "item",
+		items: [{
+			item: "twilightforest:sort_slab"
+		}]
+	},
+	{
+		uid: "0faf8a5d",
+		type: "item",
+		items: [{
+			item: "twilightforest:sort_button"
+		}]
+	},
+	{
+		uid: "1275fda5",
+		type: "item",
+		items: [{
+			item: "twilightforest:sort_fence"
+		}]
+	},
+	{
+		uid: "883df205",
+		type: "item",
+		items: [{
+			item: "twilightforest:sort_gate"
+		}]
+	},
+	{
+		uid: "dd2733ca",
+		type: "item",
+		items: [{
+			item: "twilightforest:sort_plate"
+		}]
+	},
+	{
+		uid: "ce5a3ee6",
+		type: "item",
+		items: [{
+			item: "twilightforest:magic_leaves 1 3"
+		}]
+	}]
+}

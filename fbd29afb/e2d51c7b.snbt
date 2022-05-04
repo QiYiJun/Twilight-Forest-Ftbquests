@@ -1,0 +1,44 @@
+{
+	title: "弓箭爱好者",
+	x: 19.0d,
+	y: -1.5d,
+	dependencies: [
+		"90265df1"
+	],
+	tasks: [{
+		uid: "a80bffd7",
+		type: "item",
+		items: [{
+			item: "twilightforest:triple_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "ff2bea7b",
+		type: "item",
+		items: [{
+			item: "twilightforest:seeker_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "719203f0",
+		type: "item",
+		items: [{
+			item: "twilightforest:ice_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c62a92bc",
+		type: "item",
+		items: [{
+			item: "twilightforest:ender_bow"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

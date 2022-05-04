@@ -1,0 +1,17 @@
+{
+	title: "巫妖塔楼",
+	icon: "twilightforest:trophy 1 1",
+	x: 8.0d,
+	y: -0.5d,
+	shape: "diamond",
+	dependencies: [
+		"c7e913d2"
+	],
+	tasks: [{
+		uid: "098e8902",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 1"
+		}]
+	}]
+}

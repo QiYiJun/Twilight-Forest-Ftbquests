@@ -1,0 +1,124 @@
+{
+	title: "骑士追随者",
+	x: 13.0d,
+	y: 0.5d,
+	dependencies: [
+		"68f896fc"
+	],
+	tasks: [{
+		uid: "7ffc3466",
+		type: "item",
+		items: [{
+			item: "twilightforest:armor_shard"
+		}]
+	},
+	{
+		uid: "33f9ba3b",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_ingot"
+		}]
+	},
+	{
+		uid: "acb66285",
+		type: "item",
+		items: [{
+			item: "twilightforest:armor_shard_cluster"
+		}]
+	},
+	{
+		uid: "1575f5de",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_shield"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c75e45bb",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "666a2e0b",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "01fdc586",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "471bf2fa",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "aba325c2",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "27cca95d",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d8c213ae",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "a22facbc",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_block"
+		}]
+	},
+	{
+		uid: "58fb4eb6",
+		type: "item",
+		items: [{
+			item: "twilightforest:knightmetal_ring"
+		}]
+	},
+	{
+		uid: "7dc22531",
+		type: "item",
+		items: [{
+			item: "twilightforest:block_and_chain"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

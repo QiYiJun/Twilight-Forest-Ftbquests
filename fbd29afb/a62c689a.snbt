@@ -1,0 +1,57 @@
+{
+	title: "时光木",
+	x: 13.5d,
+	y: 5.5d,
+	dependencies: [
+		"550e0b65"
+	],
+	tasks: [{
+		uid: "e759825c",
+		type: "item",
+		items: [{
+			item: "twilightforest:time_stairs"
+		}]
+	},
+	{
+		uid: "d6aa3b02",
+		type: "item",
+		items: [{
+			item: "twilightforest:time_slab"
+		}]
+	},
+	{
+		uid: "5a126fca",
+		type: "item",
+		items: [{
+			item: "twilightforest:time_button"
+		}]
+	},
+	{
+		uid: "ca09dd0f",
+		type: "item",
+		items: [{
+			item: "twilightforest:time_fence"
+		}]
+	},
+	{
+		uid: "cd76aa6d",
+		type: "item",
+		items: [{
+			item: "twilightforest:time_gate"
+		}]
+	},
+	{
+		uid: "b73685e8",
+		type: "item",
+		items: [{
+			item: "twilightforest:time_plate"
+		}]
+	},
+	{
+		uid: "4bd73e58",
+		type: "item",
+		items: [{
+			item: "twilightforest:magic_leaves"
+		}]
+	}]
+}

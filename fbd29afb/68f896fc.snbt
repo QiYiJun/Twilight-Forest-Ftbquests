@@ -1,0 +1,17 @@
+{
+	title: "骑士之墓",
+	icon: "twilightforest:trophy 1 4",
+	x: 14.0d,
+	y: -0.5d,
+	shape: "diamond",
+	dependencies: [
+		"58e09aec"
+	],
+	tasks: [{
+		uid: "7b36f5c8",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 4"
+		}]
+	}]
+}

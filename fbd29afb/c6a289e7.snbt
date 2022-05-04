@@ -1,0 +1,23 @@
+{
+	title: "种豆得\"树\"?",
+	x: 6.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"cee24793"
+	],
+	tasks: [{
+		uid: "3e87f654",
+		type: "item",
+		items: [{
+			item: "twilightforest:huge_stalk"
+		}]
+	},
+	{
+		uid: "307e6280",
+		type: "item",
+		items: [{
+			item: "twilightforest:twilight_leaves_3 1 1"
+		}]
+	}]
+}

@@ -1,0 +1,72 @@
+{
+	title: "做什么主题的房子呢?好纠结",
+	x: 12.0d,
+	y: 4.0d,
+	shape: "hexagon",
+	dependencies: [
+		"5dfd66ea"
+	],
+	tasks: [{
+		uid: "d01d5678",
+		type: "item",
+		items: [{
+			item: "twilightforest:canopy_planks"
+		}]
+	},
+	{
+		uid: "99b144a6",
+		type: "item",
+		items: [{
+			item: "twilightforest:dark_planks"
+		}]
+	},
+	{
+		uid: "5c8dc3c7",
+		type: "item",
+		items: [{
+			item: "twilightforest:mangrove_planks"
+		}]
+	},
+	{
+		uid: "32532474",
+		type: "item",
+		items: [{
+			item: "twilightforest:mine_planks"
+		}]
+	},
+	{
+		uid: "fc2c2a4c",
+		type: "item",
+		items: [{
+			item: "twilightforest:sort_planks"
+		}]
+	},
+	{
+		uid: "8c3201cd",
+		type: "item",
+		items: [{
+			item: "twilightforest:time_planks"
+		}]
+	},
+	{
+		uid: "4ade7975",
+		type: "item",
+		items: [{
+			item: "twilightforest:tower_wood"
+		}]
+	},
+	{
+		uid: "16cc3466",
+		type: "item",
+		items: [{
+			item: "twilightforest:trans_planks"
+		}]
+	},
+	{
+		uid: "8dc72756",
+		type: "item",
+		items: [{
+			item: "twilightforest:twilight_oak_planks"
+		}]
+	}]
+}

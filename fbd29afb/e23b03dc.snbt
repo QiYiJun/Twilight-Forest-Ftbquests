@@ -1,0 +1,23 @@
+{
+	title: "雪怪成群",
+	x: 18.0d,
+	y: -0.5d,
+	shape: "diamond",
+	dependencies: [
+		"49bf3ece"
+	],
+	tasks: [{
+		uid: "414e1c26",
+		type: "item",
+		items: [{
+			item: "twilightforest:alpha_fur"
+		}]
+	},
+	{
+		uid: "ac2eac49",
+		type: "item",
+		items: [{
+			item: "twilightforest:arctic_fur"
+		}]
+	}]
+}

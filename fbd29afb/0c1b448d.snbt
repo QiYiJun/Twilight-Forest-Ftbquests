@@ -1,0 +1,16 @@
+{
+	x: 7.0d,
+	y: 0.5d,
+	dependencies: [
+		"ed173dee"
+	],
+	tasks: [{
+		uid: "aba4989d",
+		type: "item",
+		items: [{
+			item: "twilightforest:lifedrain_scepter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

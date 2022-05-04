@@ -1,0 +1,44 @@
+{
+	title: "啊啾~暖和一点了",
+	x: 17.0d,
+	y: 0.5d,
+	dependencies: [
+		"e23b03dc"
+	],
+	tasks: [{
+		uid: "40b2d042",
+		type: "item",
+		items: [{
+			item: "twilightforest:arctic_helmet"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "28e8fc78",
+		type: "item",
+		items: [{
+			item: "twilightforest:arctic_chestplate"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "c7e2e3cc",
+		type: "item",
+		items: [{
+			item: "twilightforest:arctic_leggings"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "66f4ce20",
+		type: "item",
+		items: [{
+			item: "twilightforest:arctic_boots"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

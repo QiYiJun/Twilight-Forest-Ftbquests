@@ -1,0 +1,72 @@
+{
+	title: "抵御严寒",
+	x: 17.0d,
+	y: -1.5d,
+	dependencies: [
+		"e23b03dc"
+	],
+	tasks: [{
+		uid: "7bf3c106",
+		type: "item",
+		items: [{
+			id: "twilightforest:yeti_helmet",
+			tag: {
+				ench: [{
+					lvl: 2s,
+					id: 0s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d8a799e8",
+		type: "item",
+		items: [{
+			id: "twilightforest:yeti_chestplate",
+			tag: {
+				ench: [{
+					lvl: 2s,
+					id: 0s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "62ed734d",
+		type: "item",
+		items: [{
+			id: "twilightforest:yeti_leggings",
+			tag: {
+				ench: [{
+					lvl: 2s,
+					id: 0s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "16148bac",
+		type: "item",
+		items: [{
+			id: "twilightforest:yeti_boots",
+			tag: {
+				ench: [{
+					lvl: 2s,
+					id: 0s
+				},
+				{
+					lvl: 4s,
+					id: 2s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

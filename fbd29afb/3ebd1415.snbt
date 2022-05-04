@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: 0.5d,
+	dependencies: [
+		"ed173dee"
+	],
+	tasks: [{
+		uid: "2e65c5c8",
+		type: "item",
+		items: [{
+			item: "twilightforest:shield_scepter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

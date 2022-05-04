@@ -1,0 +1,17 @@
+{
+	title: "地下迷宫",
+	icon: "twilightforest:trophy 1 6",
+	x: 10.0d,
+	y: -0.5d,
+	shape: "diamond",
+	dependencies: [
+		"ed173dee"
+	],
+	tasks: [{
+		uid: "a4ceb05e",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 6"
+		}]
+	}]
+}

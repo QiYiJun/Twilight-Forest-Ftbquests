@@ -1,0 +1,16 @@
+{
+	title: "碰上彩虹,吃...叶子不能吃",
+	x: 8.0d,
+	y: 1.5d,
+	shape: "hexagon",
+	dependencies: [
+		"c6a289e7"
+	],
+	tasks: [{
+		uid: "2ee90f70",
+		type: "item",
+		items: [{
+			item: "twilightforest:twilight_leaves 1 3"
+		}]
+	}]
+}

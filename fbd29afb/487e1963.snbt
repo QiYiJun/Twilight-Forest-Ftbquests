@@ -1,0 +1,43 @@
+{
+	title: "力场空间",
+	x: 21.0d,
+	y: 0.5d,
+	dependencies: [
+		"c30692e9"
+	],
+	tasks: [{
+		uid: "f198843e",
+		type: "item",
+		items: [{
+			item: "twilightforest:force_field"
+		}]
+	},
+	{
+		uid: "4fc425d9",
+		type: "item",
+		items: [{
+			item: "twilightforest:force_field 1 1"
+		}]
+	},
+	{
+		uid: "b5fbe372",
+		type: "item",
+		items: [{
+			item: "twilightforest:force_field 1 2"
+		}]
+	},
+	{
+		uid: "48ee27f3",
+		type: "item",
+		items: [{
+			item: "twilightforest:force_field 1 3"
+		}]
+	},
+	{
+		uid: "7c94e5ae",
+		type: "item",
+		items: [{
+			item: "twilightforest:force_field 1 4"
+		}]
+	}]
+}

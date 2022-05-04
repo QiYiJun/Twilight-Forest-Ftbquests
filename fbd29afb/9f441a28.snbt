@@ -1,0 +1,16 @@
+{
+	title: "冒险 开始!",
+	x: 4.0d,
+	y: -0.5d,
+	shape: "diamond",
+	dependencies: [
+		"cc31f083"
+	],
+	tasks: [{
+		uid: "f95d3d30",
+		type: "item",
+		items: [{
+			item: "twilightforest:magic_map_empty"
+		}]
+	}]
+}

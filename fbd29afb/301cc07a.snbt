@@ -1,0 +1,57 @@
+{
+	title: "变化木",
+	x: 14.0d,
+	y: 4.5d,
+	dependencies: [
+		"550e0b65"
+	],
+	tasks: [{
+		uid: "8271710d",
+		type: "item",
+		items: [{
+			item: "twilightforest:trans_stairs"
+		}]
+	},
+	{
+		uid: "8edf5eef",
+		type: "item",
+		items: [{
+			item: "twilightforest:trans_slab"
+		}]
+	},
+	{
+		uid: "ea0bf077",
+		type: "item",
+		items: [{
+			item: "twilightforest:trans_button"
+		}]
+	},
+	{
+		uid: "07046ffb",
+		type: "item",
+		items: [{
+			item: "twilightforest:trans_fence"
+		}]
+	},
+	{
+		uid: "3b6f2a40",
+		type: "item",
+		items: [{
+			item: "twilightforest:trans_gate"
+		}]
+	},
+	{
+		uid: "aa1df891",
+		type: "item",
+		items: [{
+			item: "twilightforest:trans_plate"
+		}]
+	},
+	{
+		uid: "36cf267c",
+		type: "item",
+		items: [{
+			item: "twilightforest:magic_leaves 1 1"
+		}]
+	}]
+}

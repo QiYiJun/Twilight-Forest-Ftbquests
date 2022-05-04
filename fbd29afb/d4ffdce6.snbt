@@ -1,0 +1,12 @@
+{
+	title: "第三个愿望",
+	x: 23.0d,
+	y: -0.5d,
+	dependencies: [
+		"c30692e9"
+	],
+	tasks: [{
+		uid: "e8a3a04e",
+		type: "checkmark"
+	}]
+}

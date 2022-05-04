@@ -1,0 +1,30 @@
+{
+	x: 11.0d,
+	y: -1.5d,
+	dependencies: [
+		"69fbae30"
+	],
+	tasks: [{
+		uid: "693e580f",
+		type: "item",
+		items: [{
+			id: "twilightforest:mazebreaker_pickaxe",
+			tag: {
+				ench: [{
+					lvl: 4s,
+					id: 32s
+				},
+				{
+					lvl: 3s,
+					id: 34s
+				},
+				{
+					lvl: 2s,
+					id: 35s
+				}]
+			}
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

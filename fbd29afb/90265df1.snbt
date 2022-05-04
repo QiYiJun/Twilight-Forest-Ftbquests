@@ -1,0 +1,17 @@
+{
+	title: "极光幽城",
+	icon: "twilightforest:trophy 1 5",
+	x: 20.0d,
+	y: -0.5d,
+	shape: "diamond",
+	dependencies: [
+		"e23b03dc"
+	],
+	tasks: [{
+		uid: "e10100ec",
+		type: "item",
+		items: [{
+			item: "twilightforest:trophy 1 5"
+		}]
+	}]
+}

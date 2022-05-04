@@ -1,0 +1,16 @@
+{
+	x: 9.0d,
+	y: -1.5d,
+	dependencies: [
+		"ed173dee"
+	],
+	tasks: [{
+		uid: "4c3dcce1",
+		type: "item",
+		items: [{
+			item: "twilightforest:zombie_scepter"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}
