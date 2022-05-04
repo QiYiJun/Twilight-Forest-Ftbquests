@@ -1,6 +1,6 @@
 # 暮色森林FTB任务线
 我自己做的一个简单的暮色森林FTB任务线.<br>
-切换[Engliish](https://github.com/QiYiJun/Twilight-Forest-Ftbquests/blob/main/README_en.md)
+Language: [Engliish](https://github.com/QiYiJun/Twilight-Forest-Ftbquests/blob/main/README_en.md)
 
 # 我该怎么使用它?
 下载文件并解压到"\config\ftbquests\normal\chapters".<br>
